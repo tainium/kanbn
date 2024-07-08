@@ -46,11 +46,11 @@
     "inquirer-recursive": "github:basementuniverse/inquirer-recursive",
     "inquirer-select-line": "github:basementuniverse/inquirer-select-line",
     "jsonschema": "^1.4.0",
-    "marked": "^1.2.7",
+    "marked": "^4.0.10",
     "marked-terminal": "^4.1.1",
     "minimist": "^1.2.5",
     "rimraf": "^3.0.2",
-    "terminal-kit": "^1.44.0",
+    "terminal-kit": "^2.1.8",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
